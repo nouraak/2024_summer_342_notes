@@ -16,7 +16,8 @@ printf("hello summer!\n");
 
 ### notes
 #### in Linux: 
-- see all folders: "list"
+- on terminal: "git clone (copy of link to repository)"
+- see all folders: "ls"
 - see history of repository: "git log"
 - to use vim editor: "vi" followed by name of file
 - to get out of vim: ":q"
